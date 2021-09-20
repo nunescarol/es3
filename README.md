@@ -10,6 +10,7 @@ Curso básico de Python e Django
    1. Teste
 
 2. Django
+   0. Instalação do Django
    1. Como criar um projeto e apps com Django
    2. Como fazer e configurar urls e views
    3. Templates HTML e Django Template Language
