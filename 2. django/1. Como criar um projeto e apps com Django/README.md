@@ -2,13 +2,17 @@
 
 ## O que é um projeto Django e o que é um app?
 
-Blabla
+Um projeto é um pacote Python – isto é. um diretório de código – que contém todas as configurações para uma instância do Django. Isto pode incluir configuração de banco de dados, opções específicas do Django e configurações específicas da aplicação. Cada aplicação que você escreve no Django consiste de um pacote Python que segue uma certa convenção. Um app Django é uma aplicação web que faz alguma coisa (um app básico de enquetes, por exemplo). O Django geraa utomaticamente a estrutura básica de diretório de uma aplicação, assim como faz com a do projeto.
+
+Em resumo, um projeto é uma coleção de configurações e aplicações para um website específico. Uma aplicação é um conjunto de elementos web que faz alguma coisa (por exemplo, um sistema de blog ou um app de enquetes básico). Um projeto pode conter múltiplas aplicações. Uma aplicação pode estar em múltiplos projetos.
+
+Fonte: [Documentação Django](https://docs.djangoproject.com/pt-br/3.2/intro/tutorial01/#creating-the-polls-app)
 
 ## Criação de um projeto
 
-Para criar um projeto django, navegue até o diretório desejado e execute o comando:
+Para criar um projeto django, navegue até o diretório desejado e execute o seguinte comando no terminal (ou Powershell ou Prompt de Comando):
 
-```django-admin startproject meu_projeto```
+        django-admin startproject meu_projeto
 
 Desse modo, o Django se certifica de criar todos os arquivos necessários para se ter um projeto funcional.
 
@@ -16,11 +20,11 @@ Desse modo, o Django se certifica de criar todos os arquivos necessários para s
 
 Com o projeto já criado, entre na pasta do projeto com:
 
-```cd meu_projeto```
+        cd meu_projeto
 
 E execute o comando:
 
-```django-admin startapp meu-app1```
+        django-admin startapp meu-app1
 
 Desse modo, o Django se certifica de criar todos os arquivos necessários para se ter um app contido no seu projeto. Um exemplo da estrutura de diretórios e arquivos pode ser encontrada [aqui.](./meu_projeto)
 
