@@ -32,3 +32,7 @@ Para iniciar o servidor do seu projeto Django, execute o comando:
 
 E acesse [http://127.0.0.1:8000/](http://127.0.0.1:8000/). Se tudo tiver dado certo, a página encontrada nessa url será a seguinte: 
 ![Django Success](https://github.com/nunescarol/es3/blob/main/imagens/django-success.png?raw=true)
+
+## Próximo passo
+
+Agora que você já tem seu projeto e app criado, siga para o próximo tópico: [2. Como fazer e configurar urls e views]("../2. Como fazer e configurar urls e views")
