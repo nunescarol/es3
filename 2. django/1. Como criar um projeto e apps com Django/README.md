@@ -24,7 +24,7 @@ Com o projeto já criado, entre na pasta do projeto com:
 
 E execute o comando:
 
-        django-admin startapp meu-app1
+        django-admin startapp meu_app1
 
 Desse modo, o Django se certifica de criar todos os arquivos necessários para se ter um app contido no seu projeto. Um exemplo da estrutura de diretórios e arquivos pode ser encontrada [aqui.](./meu_projeto)
 
