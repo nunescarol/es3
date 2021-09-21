@@ -35,4 +35,4 @@ E acesse [http://127.0.0.1:8000/](http://127.0.0.1:8000/). Se tudo tiver dado ce
 
 ## Próximo passo
 
-Agora que você já tem seu projeto e app criado, siga para o próximo tópico: [2. Como fazer e configurar urls e views]("../2. Como fazer e configurar urls e views")
+Agora que você já tem seu projeto e app criado, siga para o próximo tópico: [2. Como fazer e configurar urls e views](https://github.com/nunescarol/es3/tree/main/2.%20django/2.%20Como%20fazer%20e%20configurar%20urls%20e%20views)
