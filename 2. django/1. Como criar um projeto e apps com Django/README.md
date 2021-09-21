@@ -22,7 +22,7 @@ E execute o comando:
 
 ```django-admin startapp meu-app1```
 
-Desse modo, o Django se certifica de criar todos os arquivos necessários para se ter um app contido no seu projeto. Um exemplo da estrutura de diretórios e arquivos pode ser encontrada [aqui.]()
+Desse modo, o Django se certifica de criar todos os arquivos necessários para se ter um app contido no seu projeto. Um exemplo da estrutura de diretórios e arquivos pode ser encontrada [aqui.](./meu_projeto)
 
 ## Iniciando o servidor
 
@@ -31,4 +31,4 @@ Para iniciar o servidor do seu projeto Django, execute o comando:
 ```python manage.py runserver```
 
 E acesse [http://127.0.0.1:8000/](http://127.0.0.1:8000/). Se tudo tiver dado certo, a página encontrada nessa url será a seguinte: 
-![Django Success](https://github.com/nunescarol/es3/blob/main/django-success.png?raw=true)
+![Django Success](https://github.com/nunescarol/es3/blob/main/imagens/django-success.png?raw=true)
