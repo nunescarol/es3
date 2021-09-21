@@ -2,7 +2,7 @@
 
 ## O que é um projeto Django e o que é um app?
 
-Um projeto é um pacote Python – isto é. um diretório de código – que contém todas as configurações para uma instância do Django. Isto pode incluir configuração de banco de dados, opções específicas do Django e configurações específicas da aplicação. Cada aplicação que você escreve no Django consiste de um pacote Python que segue uma certa convenção. Um app Django é uma aplicação web que faz alguma coisa (um app básico de enquetes, por exemplo). O Django geraa utomaticamente a estrutura básica de diretório de uma aplicação, assim como faz com a do projeto.
+Um projeto é um pacote Python – isto é. um diretório de código – que contém todas as configurações para uma instância do Django. Isto pode incluir configuração de banco de dados, opções específicas do Django e configurações específicas da aplicação. Cada aplicação que você escreve no Django consiste de um pacote Python que segue uma certa convenção. O Django gera automaticamente a estrutura básica de diretório de uma aplicação, assim como faz com a do projeto.
 
 Em resumo, um projeto é uma coleção de configurações e aplicações para um website específico. Uma aplicação é um conjunto de elementos web que faz alguma coisa (por exemplo, um sistema de blog ou um app de enquetes básico). Um projeto pode conter múltiplas aplicações. Uma aplicação pode estar em múltiplos projetos.
 
