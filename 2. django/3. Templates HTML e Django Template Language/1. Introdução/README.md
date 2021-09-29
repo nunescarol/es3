@@ -65,7 +65,10 @@ Para iniciar o servidor do seu projeto Django, execute o seguinte comando da pas
         python manage.py runserver
 
 E acesse [http://127.0.0.1:8000/meuapp](http://127.0.0.1:8000/meuapp). Se tudo tiver dado certo, a página encontrada nessa url será a seguinte: 
-![Django Success](https://github.com/nunescarol/es3/blob/main/imagens/django-html-meuapp.png?raw=true)
+
+<p align="center">
+  <img src="https://github.com/nunescarol/es3/blob/main/imagens/django-html-meuapp.png?raw=true" alt="Sucesso HTML"/>
+</p>
 
 #### Exemplo da estrutura de pastas e arquivos:
 
