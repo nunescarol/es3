@@ -89,4 +89,4 @@ Um exemplo da estrutura de diretórios e arquivos pode ser encontrada [aqui.](./
 
 ### Próximo passo
 
-Agora você já pode seguir para o próximo tópico: [3. Explorando a django template language]("../3. Explorando a django template language")
+Agora você já pode seguir para o próximo tópico: [3. Explorando a django template language](https://github.com/nunescarol/es3/tree/main/2.%20django/3.%20Templates%20HTML%20e%20Django%20Template%20Language/3.%20Explorando%20a%20django%20template%20language)

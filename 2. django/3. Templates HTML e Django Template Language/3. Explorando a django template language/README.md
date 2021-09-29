@@ -70,4 +70,4 @@ Um exemplo da estrutura de diretórios e arquivos pode ser encontrada [aqui.](./
 
 ### Próximo passo
 
-Agora que você já sabe o básico sobre como templates HTML funcionam e como usar a django template language, pode seguir para o próximo tópico: [4. Django Models (modelos)]("../4. Django Models (modelos)")
+Agora que você já sabe o básico sobre como templates HTML funcionam e como usar a django template language, pode seguir para o próximo tópico: [4. Django Models (modelos)](https://github.com/nunescarol/es3/tree/main/2.%20django/4.%20Django%20Models%20(modelos))
