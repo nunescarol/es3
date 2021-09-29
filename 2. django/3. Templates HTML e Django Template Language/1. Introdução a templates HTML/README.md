@@ -70,7 +70,7 @@ E acesse [http://127.0.0.1:8000/meuapp](http://127.0.0.1:8000/meuapp). Se tudo t
   <img src="https://github.com/nunescarol/es3/blob/main/imagens/django-html-meuapp.png?raw=true" alt="Sucesso HTML"/>
 </p>
 
-#### Exemplo da estrutura de pastas e arquivos:
+### Exemplo da estrutura de pastas e arquivos:
 
 Um exemplo da estrutura de diretórios e arquivos pode ser encontrada [aqui.](./meu_projeto)
 

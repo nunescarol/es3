@@ -64,7 +64,7 @@ Para iniciar o servidor do seu projeto Django, execute o seguinte comando da pas
 
 E acesse [http://127.0.0.1:8000/meuapp](http://127.0.0.1:8000/meuapp) e teste a exibição da lista. No arquivo meu_projeto/meu_app1/views.py mude o valor da flag de "True" para "False" e veja o que acontece na página HTML carregada.
 
-#### Exemplo da estrutura de pastas e arquivos:
+### Exemplo da estrutura de pastas e arquivos:
 
 Um exemplo da estrutura de diretórios e arquivos pode ser encontrada [aqui.](./meu_projeto)
 
