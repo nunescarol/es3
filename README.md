@@ -11,7 +11,17 @@ Abaixo, é possível ver o sumário do curso e os tópicos a serem visitados:
 
 ### Sumário
 1. [Python](https://github.com/nunescarol/es3/tree/main/1.%20python)
-   - Teste
+   - [O que é Python](https://github.com/nunescarol/es3/tree/main/1.%20python#1-o-que-%C3%A9-python)
+   - [O que é Django](https://github.com/nunescarol/es3/tree/main/1.%20python#2-o-que-%C3%A9-django)
+   - [O que é o Anaconda](https://github.com/nunescarol/es3/tree/main/1.%20python#3-o-que-%C3%A9-o-anaconda)
+   - [O que é o Jupyter Notebook](https://github.com/nunescarol/es3/tree/main/1.%20python#4-o-que-%C3%A9-o-jupyter-notebook)
+   - [Como instalar o Anaconda](https://github.com/nunescarol/es3/tree/main/1.%20python#5-como-instalar-o-anaconda)
+   - [Como utilizar o Jupyter Notebook](https://github.com/nunescarol/es3/tree/main/1.%20python#6-como-utilizar-o-jupyter-notebook)
+   - [Introdução à linguagem de programação Python](https://github.com/nunescarol/es3/blob/main/1.%20python/Aulas/Aula_01.ipynb)
+   - [Operadores em Python](https://github.com/nunescarol/es3/blob/main/1.%20python/Aulas/Aula_02-Operadores.ipynb)
+   - [If e Else](https://github.com/nunescarol/es3/blob/main/1.%20python/Aulas/Aula_03-If_e_Else.ipynb)
+   - [Laços de Repetição](https://github.com/nunescarol/es3/blob/main/1.%20python/Aulas/Aula_04-La%C3%A7os_de_Repeticao.ipynb)
+   - [Funções](https://github.com/nunescarol/es3/blob/main/1.%20python/Aulas/Aula_05-Funcoes.ipynb)
 
 2. [Django](https://github.com/nunescarol/es3/tree/main/2.%20django)
    - [Instalação do Django](https://github.com/nunescarol/es3/tree/main/2.%20django/0.%20Instala%C3%A7%C3%A3o%20do%20Django)
