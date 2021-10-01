@@ -1,4 +1,4 @@
-# Mini-curso de Python e Django
+# Minicurso de Python e Django
 Seja bem-vindx ao curso de linguagem de programação Python e do framework Django. Esse repositório contém arquivos e pastas conectadas, os quais criam um fluxo de aprendizagem que possibilita um manejo inicial dessas ferramentas. As versões utilizadas aqui são 'Python 3.8' e 'Django 3.2.7'. As instalações e preparos necessários serão todos abordados no curso, nos respectivos tópicos.
 
 <p align="center">
@@ -6,7 +6,7 @@ Seja bem-vindx ao curso de linguagem de programação Python e do framework Djan
 </p>
 
 ### Do que preciso para começar?
-Para fazer o nosso mini-curso, é necessário apenas ter noções de lógica de programação e ter um PC ao seu dispor, todo o resto será ensinado aqui.
+Para fazer o nosso minicurso, é necessário apenas ter noções de lógica de programação e ter um PC ao seu dispor, todo o resto será ensinado aqui.
 Abaixo, é possível ver o sumário do curso e os tópicos a serem visitados:
 
 ### Sumário
@@ -33,7 +33,7 @@ Abaixo, é possível ver o sumário do curso e os tópicos a serem visitados:
    - [API REST](https://github.com/nunescarol/es3/tree/main/2.%20django/6.%20API%20REST)
 
 ### Por onde começo?
-Para dar início ao nosso mini-curso, acesse a primeira lição: [1. Python](https://github.com/nunescarol/es3/tree/main/1.%20python)
+Para dar início ao nosso minicurso, acesse a primeira lição: [1. Python](https://github.com/nunescarol/es3/tree/main/1.%20python)
 
 ### Tutores:
 Nossa equipe é formada por tutores experientes e capacitados, vamos conhecê-los:
