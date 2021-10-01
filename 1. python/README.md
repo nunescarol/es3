@@ -34,7 +34,7 @@ Anaconda cria um ambiente com todas as bibliotecas e ferramentas necessárias pa
 
 Abaixo está algumas aplicações que o Anaconda instala.
 
-![Ferramentas inclusas no Anaconda](imagens/ferramentas_anaconda.jpg)
+![Ferramentas inclusas no Anaconda](../imagens/ferramentas_anaconda.jpg)
 
 ## 4. O que é o Jupyter Notebook
 É uma aplicação web open-source bastante utilizada para realizar projetos utilizando a linguagem python. Uma grande vantagem dele é que ajuda bastante no processo de documentação, além do código em si. Ele trabalha com células em que podem ser criado textos ou códigos.
@@ -44,14 +44,14 @@ Para baixar o Anaconda, basta entrar no seguinte link: https://www.anaconda.com/
 
 E descer na página até encontrar a seguinte seção:
 
-![Seção de Download Anaconda](imagens/baixar_anaconda.jpg)
+![Seção de Download Anaconda](../imagens/baixar_anaconda.jpg)
 
 Selecione o sistema operacional e baixe o anaconda para a versão 3.8 do Python. É importante lembrar que o Anaconda já vem com Python instalado. Abra o instalador do Anaconda, basta seguir o procedimento padrão de instalação e você terá ele instalado.
 
 ## 6. Como utilizar o Jupyter Notebook
 Após a instalação do Anaconda, abra-o e mostrará a seguinte tela.
 
-![Ferramentas inclusas no anaconda](imagens/tela_inicial_anaconda.jpg)
+![Ferramentas inclusas no anaconda](../imagens/tela_inicial_anaconda.jpg)
 
 
 A partir desta tela, basta clicar em Launch, abaixo do Jupyter.
@@ -60,11 +60,11 @@ Ao fazer isso, você será direcionado para uma página web no seu navegador com
 
 Nesta janela você poderá navegar pelas pastas do seu computador, assim como manipulá-las. Na imagem a seguir se pode ver que, na região em destaque, ao clicar em New. Também é possível abrir através do terminal, criar pastas (Folder), arquivos de textos (Text File) e o mais importante para nós nesse minicurso, que é a possibilidade de criar um Notebook, em Python 3.
 
-![Ferramentas inclusas no anaconda](imagens/tela_inicial_jupyter.jpg)
+![Ferramentas inclusas no anaconda](../imagens/tela_inicial_jupyter.jpg)
 
 A imagem abaixo mostra como é um Notebook com código e markdown. É possivel incluir novas células no menu superior em inserir.
 
-![Jupyter Notebook](imagens/jupyter_new.png)
+![Jupyter Notebook](../imagens/jupyter_new.png)
 
 O markdown é uma forma de escrever como texto com algumas fomatações. O jupyer permite que seja executada várias células ou apenas uma na aba Cell. Na aba Kernel é possivel pausar a execução ou recomeçá-lo, entre outras atividades. 
 Para que possa executar a célula pode-se apertar ctrl+enter ou o botão de run.
