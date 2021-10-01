@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu App</title>
+</head>
+<body>
+    
+    <h1>Olá, Mundo.</h1>
+    <a href="{% url 'meu_app1:segunda-pagina' %}">Leve-me para a segunda página</a>
+
+    {% for item in frutas %}
+    <ul>
+        {% if flag %}
+
+        <li>{{item}}</li>
+
+        {% endif %}
+    </ul>
+    {% endfor %}
+    
+</body>
+</html>

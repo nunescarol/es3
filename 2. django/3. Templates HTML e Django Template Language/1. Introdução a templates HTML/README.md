@@ -1,5 +1,5 @@
 # 3. Templates HTML e Django Template Language
-## 3.1. Introdução
+## 3.1. Introdução a templates HTML
 
 Vamos dar início na aprendizagem dos conceitos básicos da manipulação de templates HTML com o Django.
 
