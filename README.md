@@ -5,6 +5,8 @@ Seja bem-vindx ao curso de linguagem de programação Python e do framework Djan
   <img src="https://github.com/nunescarol/es3/blob/main/imagens/python-django2.png?raw=true" alt="Python+Django"/>
 </p>
 
+### Do que preciso para começar?
+Para fazer o nosso mini-curso, é necessário apenas ter noções de lógica de programação e ter um PC ao seu dispor, todo o resto será ensinado aqui.
 Abaixo, é possível ver o sumário do curso e os tópicos a serem visitados:
 
 ### Sumário
@@ -17,19 +19,15 @@ Abaixo, é possível ver o sumário do curso e os tópicos a serem visitados:
    - [Como fazer e configurar urls e views](https://github.com/nunescarol/es3/tree/main/2.%20django/2.%20Como%20fazer%20e%20configurar%20urls%20e%20views)
    - [Templates HTML e Django Template Language](https://github.com/nunescarol/es3/tree/main/2.%20django/3.%20Templates%20HTML%20e%20Django%20Template%20Language)
    - [Django Models (modelos)](https://github.com/nunescarol/es3/tree/main/2.%20django/4.%20Django%20Models%20(modelos))
-      1. [Migrações]()
-      2. [CRUD]()
    - [Django Admin](https://github.com/nunescarol/es3/tree/main/2.%20django/5.%20Django%20Admin)
-
-### Do que preciso para começar?
-Para fazer o nosso mini-curso, é necessário apenas ter noções de lógica de programação e ter um PC ao seu dispor, todo o resto será ensinado aqui.
+   - [API REST](https://github.com/nunescarol/es3/tree/main/2.%20django/6.%20API%20REST)
 
 ### Por onde começo?
 Para dar início ao nosso mini-curso, acesse a primeira lição: [1. Python](https://github.com/nunescarol/es3/tree/main/1.%20python)
 
 ### Tutores:
 Nossa equipe é formada por tutores experientes e capacitados, vamos conhecê-los:
-- Edwildson Coelho Rodrigues
-- Jorge Lucas Barbosa Marques
-- Maria Carolina Lins Nunes
-- Samuel de Souza Santana
+- [Edwildson Coelho Rodrigues](https://github.com/edwildson)
+- [Jorge Lucas Barbosa Marques](https://github.com/jorgelbm)
+- [Maria Carolina Lins Nunes](https://github.com/nunescarol)
+- [Samuel de Souza Santana](https://github.com/samuelsankys)
