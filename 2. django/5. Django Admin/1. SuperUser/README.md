@@ -20,4 +20,4 @@ Superuser created successfully.
 ```
 
 
-Pronto, agora que criamos nosso superuser podemos prosseguir para o Django Admin Site, na próxima seção você irá encontrar como realizar este procedimento, que pode ser encontrado no link a seguir: [1. Django Admin Site](https://github.com/nunescarol/es3/tree/main/2.%20django/5.%20Django%20Admin/2.%20Django%20Admin%20Site).
+Pronto, agora que criamos nosso superuser podemos prosseguir para o Django Admin Site, na próxima seção você irá encontrar como realizar este procedimento, que pode ser encontrado no link a seguir: [2. Django Admin Site](https://github.com/nunescarol/es3/tree/main/2.%20django/5.%20Django%20Admin/2.%20Django%20Admin%20Site).
