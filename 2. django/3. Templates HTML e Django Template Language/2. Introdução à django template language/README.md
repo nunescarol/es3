@@ -24,7 +24,7 @@ Para dar início a esse tópico, vamos adicionar uma página HTML ao nosso proje
 </html>
 ```
 
-Perceba o uso do trecho '{% url 'meu_app1:index' %}'. Essa é uma tag de template do tipo {% url %}, ela funciona pesquisando a URL indicada conforme especificado no arquivo "urls.py", nesse caso, do app "meu_app1". No exemplo dado, é especificado o app e o nome da URL especificada com o argumento "name".
+Perceba o uso do trecho `{% url 'meu_app1:index' %}`. Essa é uma tag de template do tipo {% url %}, ela funciona pesquisando a URL indicada conforme especificado no arquivo "urls.py", nesse caso, do app "meu_app1". No exemplo dado, é especificado o app e o nome da URL especificada com o argumento "name".
 
 - Agora vamos atualizar o arquivo "index.html". Seu conteúdo ficará assim:
 
