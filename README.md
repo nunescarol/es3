@@ -1,5 +1,5 @@
 # Mini-curso de Python e Django
-Seja bem-vindx ao curso de linguagem de programação Python e do framework Django. Esse repositório contém arquivos e pastas conectadas os quais criam um fluxo de aprendizagem que possibilita um manejo inicial dessas ferramentas. As versões utilizadas aqui são 'Python 3.8' e 'Django 3.2.7'. As instalações e preparos necessários serão todos abordados no curso, nos respectivos tópicos
+Seja bem-vindx ao curso de linguagem de programação Python e do framework Django. Esse repositório contém arquivos e pastas conectadas, os quais criam um fluxo de aprendizagem que possibilita um manejo inicial dessas ferramentas. As versões utilizadas aqui são 'Python 3.8' e 'Django 3.2.7'. As instalações e preparos necessários serão todos abordados no curso, nos respectivos tópicos.
 
 <p align="center">
   <img src="https://github.com/nunescarol/es3/blob/main/imagens/python-django2.png?raw=true" alt="Python+Django"/>
