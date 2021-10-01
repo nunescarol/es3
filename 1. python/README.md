@@ -62,4 +62,5 @@ A imagem abaixo mostra como é um Notebook com código e markdown. É possivel i
 
 ![Jupyter Notebook](imagens/jupyter_new.png)
 
-O Jupyter permite que seja executada várias células ou apenas uma na aba Cell. Na aba Kernel é possivel pausar a execução ou recomeçá-lo, entre outras atividades.
+O markdown é uma forma de escrever como texto com algumas fomatações. O jupyer permite que seja executada várias células ou apenas uma na aba Cell. Na aba Kernel é possivel pausar a execução ou recomeçá-lo, entre outras atividades. 
+Para que possa executar a célula pode-se apertar ctrl+enter ou o botão de run.
