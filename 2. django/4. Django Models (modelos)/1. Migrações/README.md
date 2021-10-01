@@ -1,18 +1,21 @@
-# 4. Migrations (Migrações)
+# 4. Django Models
+## 4.1. Migrations (Migrações)
 
 Após o modelo ser criado, estamos aptos a criar as tabelas no banco de dados que irão armazenas as informações. Assim, rodaremos o comando abaixo para criar o banco de dados e as migrations.
 
-``` python manage.py makemigrations ```
+```python
+python manage.py makemigrations ```
 
 Com esse comando você pode observar que um banco de dados db.sqlite3 foi criado na raiz do seu projeto, ao lado do manage.py e dentro da aplicação cursos foi criada uma pasta chamada migrations e um arquivo __init__.py.
 
 Agora rodaremos o código abaixo para criar as nossas tabelas no banco:
 
-``` python manage.py migrate ```
+```python
+python manage.py migrate ```
 
 Você verá uma tela como esta abaixo:
 
-```
+```python
 Operations to perform:
   Apply all migrations: admin, auth, contenttypes, sessions
 Running migrations:
