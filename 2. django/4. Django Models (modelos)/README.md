@@ -41,4 +41,5 @@ class Curso(Base):
 ```
 A classe Curso, extende a classe Base, herdando todos os campos  que a Base tem e herdando também todos os campos e métodos que a Base herda do models do Django. Assim, criamos um titulo - Campo de texto com no máximo 255 caracteres, e url - campo autodescritivo que salva a url de um determinado curso. A classe meta serve para descrever o nosso modelo, que neste caso é Curso e no plural Cursos.
 
+
 Após salvar o models iremos para próximo subtópico dessa seção que pode ser encontrado no link a seguir: [1. Migrações](https://github.com/nunescarol/es3/tree/main/2.%20django/4.%20Django%20Models%20(modelos)/1.%20Migrações).
