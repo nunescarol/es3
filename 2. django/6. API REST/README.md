@@ -122,4 +122,6 @@ Uma imagem como a abaixo será exibida:
 
 ![Django API2](https://github.com/nunescarol/es3/blob/main/imagens/apirest2.jpeg?raw=true)
 
-Com isso você chegou até o final do nosso curso e já é capaz de desenvolver projetos em django capazes de fornecer API's rest.
+# Parabéns
+Agora você já tem noção dos conceitos básicos de Python e Django e já é capaz de desenvolver projetos em django capazes de fornecer API's rest.
+
