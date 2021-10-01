@@ -18,10 +18,12 @@ Com o código acima, estamos registrando o model Curso no nosso painel do admin 
 
 Ao clicar em adicionar (add) um curso a seguinte tela será exibida, solicitando informações para o novo curso:
 
-![Django Admin Site 3](https://github.com/nunescarol/es3/blob/main/imagens/admin insert curso.png?raw=true)
+![Django Admin Site 3](https://github.com/nunescarol/es3/blob/main/imagens/admin%20insert%20curso.PNG)
 
 Ao salvar uma lista de cursos será exibida, nesta lista podemos escolher qualquer curso para editar, veja que podemos editar os campos como também excluir o curso:
 
 ![Django Admin Site 4](https://github.com/nunescarol/es3/blob/main/imagens/admin update curso.png?raw=true)
+
+
 
 Na próxima seção criar uma API REST para fornecer nossos cursos na web: [6. API REST](https://github.com/nunescarol/es3/tree/main/2.%20django/6.%20API%20REST).
