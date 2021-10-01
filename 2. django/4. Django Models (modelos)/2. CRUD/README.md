@@ -1,4 +1,5 @@
-# 4. CRUD (create, read, update, delete)
+# 4. Django Models
+## 4.2. CRUD (create, read, update, delete)
 
 Como já criamos o banco de dados e criamos as tabelas com o migrate, agora já podemos realizar as operações de CRUD, a criação, leitura, atualização e exclusão de um objeto no banco.
 
