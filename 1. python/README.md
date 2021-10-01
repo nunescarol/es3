@@ -60,6 +60,6 @@ Nesta janela você poderá navegar pelas pastas do seu computador, assim como ma
 
 A imagem abaixo mostra como é um Notebook com código e markdown. É possivel incluir novas células no menu superior em inserir.
 
-![Jupyter Notebook](imagens/jupyter_new.jpg)
+![Jupyter Notebook](imagens/jupyter_new.png)
 
 O Jupyter permite que seja executada várias células ou apenas uma na aba Cell. Na aba Kernel é possivel pausar a execução ou recomeçá-lo, entre outras atividades.
