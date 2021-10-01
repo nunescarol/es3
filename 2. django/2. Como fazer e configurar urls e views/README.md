@@ -40,7 +40,7 @@ urlpatterns = [
 
 ## Acessando a URL
 
-Para iniciar o servidor do seu projeto Django, execute o comando:
+Para iniciar o servidor do seu projeto Django, execute o seguinte comando dentro do diretório raiz do projeto:
 
         python manage.py runserver
 
