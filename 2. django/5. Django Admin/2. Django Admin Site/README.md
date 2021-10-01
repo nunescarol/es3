@@ -19,4 +19,4 @@ Após o login ser realizado, outra tela como a abaixo será exibida:
 
 Perceba que ainda não há  como modificar, inserir ou fazer qualquer operação com o model Curso criado na seção 4, apenas como modificar, inserir ou manipular usuários e grupos.
 
-Na próxima subseção iremos fazer com que seja possivel inserir, modificar e excluir cursos pelo painel do django admin, veja em: [3. Manipulando models no Django Admin Site](https://github.com/nunescarol/es3/tree/main/2.%20django/5.%20Django%20Admin/3.%203.%20Manipulando%20models%20no%20Django%20Admin%20Site).
+Na próxima subseção iremos fazer com que seja possivel inserir, modificar e excluir cursos pelo painel do django admin, veja em: [3. Manipulando models no Django Admin Site](https://github.com/nunescarol/es3/tree/main/2.%20django/5.%20Django%20Admin/3.%200Manipulando%20models%20no%20Django%20Admin%20Site).
