@@ -10,7 +10,8 @@ Para dar inicio aos modelos, antes de tudo iremos criar uma app chamada Curso, n
 
 Após criar a app cursos vá até o arquivos settings.py, dentro da pasta do seu projeto, e em INSTALED_APPS adicione cursos:
 
-```INSTALLED_APPS = [
+```
+INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
