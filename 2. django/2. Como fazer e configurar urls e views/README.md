@@ -40,7 +40,7 @@ urlpatterns = [
 
 ## Acessando a URL
 
-Para iniciar o servidor do seu projeto Django, execute o comando:
+Para iniciar o servidor do seu projeto Django, execute o seguinte comando dentro do diretório raiz do projeto:
 
         python manage.py runserver
 
@@ -50,3 +50,7 @@ E acesse [http://127.0.0.1:8000/meuapp](http://127.0.0.1:8000/meuapp). Se tudo t
 ### Exemplo da estrutura de pastas e arquivos:
 
 Um exemplo da estrutura de diretórios e arquivos pode ser encontrada [aqui.](./meu_projeto)
+
+### Próximo passo
+
+Agora você já pode seguir para o próximo tópico: [3. Templates HTML e Django Template Language](https://github.com/nunescarol/es3/tree/main/2.%20django/3.%20Templates%20HTML%20e%20Django%20Template%20Language)
