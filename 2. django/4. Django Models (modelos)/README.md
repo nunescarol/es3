@@ -8,9 +8,26 @@ Para dar inicio aos modelos, antes de tudo iremos criar uma app chamada Curso, n
 
 ``` python manage.py startapp cursos ```
 
+Após criar a app cursos vá até o arquivos settings.py, dentro da pasta do seu projeto, e em INSTALED_APPS adicione cursos:
+
+```INSTALLED_APPS = [
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+
+    #apps
+    'cursos',
+]
+``` 
+
+
 Vá até a pasta cursos criada no seu projeto, e encontre o arquivo nomeado models.py dentro dela.
 
 Inicialmente iremos criar um modelo base para o nossa aplicação de cursos.
+
 ```   
 from django.db import models
 

@@ -39,4 +39,4 @@ Running migrations:
 Pronto, as migrações já foram feitas e já estamos aptos a criar novos cursos.
 
 
-Após executar o migrate iremos para próximo subtópico dessa seção que pode ser encontrado no link a seguir: [1. Migrações](https://github.com/nunescarol/es3/tree/main/2.%20django/4.%20Django%20Models%20(modelos)/2.%20CRUD).
+Após executar o migrate iremos para próximo subtópico dessa seção que pode ser encontrado no link a seguir: [2. CRUD](https://github.com/nunescarol/es3/tree/main/2.%20django/4.%20Django%20Models%20(modelos)/2.%20CRUD).
