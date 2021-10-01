@@ -8,13 +8,13 @@ Com isso, será apresentada a estrutura geral do Python, partindo de um simples 
 
 O minicurso seguirá uma ordem de conteúdos, como pode ser vista na lista abaixo:
 
-1. O que é Python
-2. O que é Django
-3. O que é o Anaconda
-4. O que é o Jupyter Notebook
-5. Como instalar o Anaconda
-6. Como utilizar o Jupyter Notebook
-7. Introdução à linguagem de programação Python
+1. [O que é Python](https://github.com/nunescarol/es3/tree/main/1.%20python#1-o-que-%C3%A9-python)
+2. [O que é Django](https://github.com/nunescarol/es3/tree/main/1.%20python#2-o-que-%C3%A9-django)
+3. [O que é o Anaconda](https://github.com/nunescarol/es3/tree/main/1.%20python#3-o-que-%C3%A9-o-anaconda)
+4. [O que é o Jupyter Notebook](https://github.com/nunescarol/es3/tree/main/1.%20python#4-o-que-%C3%A9-o-jupyter-notebook)
+5. [Como instalar o Anaconda](https://github.com/nunescarol/es3/tree/main/1.%20python#5-como-instalar-o-anaconda)
+6. [Como utilizar o Jupyter Notebook](https://github.com/nunescarol/es3/tree/main/1.%20python#6-como-utilizar-o-jupyter-notebook)
+7. [Introdução à linguagem de programação Python](botar link aqui!)
 
 
 ## 1. O que é Python
