@@ -7,7 +7,8 @@ No modelo definimos quais campos aquele objeto terá, e também como será o rel
 Para dar inicio aos modelos, antes de tudo iremos criar uma app chamada Curso, no qual será a nossa aplicação de cursos. Para isso rodemos o código abaixo no terminal:
 
 ```python
-python manage.py startapp cursos ```
+manage.py startapp cursos 
+```
 
 Após criar a app cursos vá até o arquivos settings.py, dentro da pasta do seu projeto, e em INSTALED_APPS adicione cursos:
 
