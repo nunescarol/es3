@@ -22,6 +22,7 @@ Abaixo, é possível ver o sumário do curso e os tópicos a serem visitados:
    - [Django Admin](https://github.com/nunescarol/es3/tree/main/2.%20django/5.%20Django%20Admin)
 
 ### Tutores:
+Nossa equipe é formada por tutores experientes e capacitados, vamos conhecê-los:
 - Edwildson Coelho Rodrigues
 - Jorge Lucas Barbosa Marques
 - Maria Carolina Lins Nunes
