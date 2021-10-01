@@ -70,7 +70,6 @@ O markdown é uma forma de escrever como texto com algumas fomatações. O jupye
 Para que possa executar a célula pode-se apertar ctrl+enter ou o botão de run.
 
 ### Com isso, podemos dar inicio a utilização do Python em si. As aulas agora serão através de notebooks gerados pelo Jupyter Notebook, para acessá-los basta clicar nos links através do sumário ou acessar os arquivos na pasta de Aulas:
-
     7. [Introdução à linguagem de programação Python](https://github.com/nunescarol/es3/blob/main/1.%20python/Aulas/Aula_01.ipynb)
     8. [Operadores em Python](https://github.com/nunescarol/es3/blob/main/1.%20python/Aulas/Aula_02-Operadores.ipynb)
     9. [If e Else](https://github.com/nunescarol/es3/blob/main/1.%20python/Aulas/Aula_03-If_e_Else.ipynb)
