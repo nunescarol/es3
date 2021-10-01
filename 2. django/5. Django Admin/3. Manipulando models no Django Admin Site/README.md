@@ -22,7 +22,7 @@ Ao clicar em adicionar (add) um curso a seguinte tela será exibida, solicitando
 
 Ao salvar uma lista de cursos será exibida, nesta lista podemos escolher qualquer curso para editar, veja que podemos editar os campos como também excluir o curso:
 
-![Django Admin Site 4](https://github.com/nunescarol/es3/blob/main/imagens/admin update curso.png?raw=true)
+![Django Admin Site 4](https://github.com/nunescarol/es3/blob/main/imagens/admin%20update%20curso.PNG)
 
 
 
