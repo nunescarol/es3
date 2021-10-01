@@ -54,12 +54,12 @@ A partir desta tela, basta clicar em Launch, abaixo do Jupyter.
 
 Ao fazer isso, você será direcionado para uma página web no seu navegador com o Jupyter funcionando.
 
-Nesta janela você poderá navegar pelas pastas do seu computador, assim como manipulá-las. Na imagem a seguir se pode ver que, na região em destaque, ao clicar em New Também é possível abrir um terminal, criar pastas (Folder), arquivos de textos (Text File) e o mais importante para nós nesse minicurso, que é a possibilidade de criar um Notebook, em Python 3.
+Nesta janela você poderá navegar pelas pastas do seu computador, assim como manipulá-las. Na imagem a seguir se pode ver que, na região em destaque, ao clicar em New. Também é possível abrir através do terminal, criar pastas (Folder), arquivos de textos (Text File) e o mais importante para nós nesse minicurso, que é a possibilidade de criar um Notebook, em Python 3.
 
 ![Ferramentas inclusas no anaconda](imagens/tela_inicial_jupyter.jpg)
 
-A imagem abaixo mostra como é um Notebook com alguns códigos e markdown. É possivel incluir novas células no menu superior em inserir.
+A imagem abaixo mostra como é um Notebook com código e markdown. É possivel incluir novas células no menu superior em inserir.
 
-[IMAGEM]
+![Jupyter Notebook](imagem/jupyter_new.jpg)
 
-O Jupyter permite que seja executada várias células ou apenas uma na aba Cell. Na aba Kernel é possivel pausar a execução ou recomeçá-lo, netre outras atividades.
+O Jupyter permite que seja executada várias células ou apenas uma na aba Cell. Na aba Kernel é possivel pausar a execução ou recomeçá-lo, entre outras atividades.
