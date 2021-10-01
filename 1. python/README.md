@@ -49,7 +49,7 @@ E descer na página até encontrar a seguinte seção:
 Selecione o sistema operacional e baixe o anaconda para a versão 3.8 do Python. É importante lembrar que o Anaconda já vem com Python instalado. Abra o instalador do Anaconda, basta seguir o procedimento padrão de instalação e você terá ele instalado.
 
 ## 6. Como utilizar o Jupyter Notebook
-Após a instalação do Anaconda, abra-o e mostrará a seguinte tela.
+Após a instalação do Anaconda, abra-o e a seguinte tela será mostrada.
 
 ![Ferramentas inclusas no anaconda](../imagens/tela_inicial_anaconda.jpg)
 
@@ -69,4 +69,10 @@ A imagem abaixo mostra como é um Notebook com código e markdown. É possivel i
 O markdown é uma forma de escrever como texto com algumas fomatações. O jupyer permite que seja executada várias células ou apenas uma na aba Cell. Na aba Kernel é possivel pausar a execução ou recomeçá-lo, entre outras atividades. 
 Para que possa executar a célula pode-se apertar ctrl+enter ou o botão de run.
 
-### Com isso, podemos dar inicio a utilização do Python em sí. As aulas agora serão através de notebooks gerados pelo Jupyter Notebook, para acessá-los basta clicar nos links através do sumário ou acessar os arquivos na pasta de Aulas.
+### Com isso, podemos dar inicio a utilização do Python em si. As aulas agora serão através de notebooks gerados pelo Jupyter Notebook, para acessá-los basta clicar nos links através do sumário ou acessar os arquivos na pasta de Aulas:
+
+    7. [Introdução à linguagem de programação Python](https://github.com/nunescarol/es3/blob/main/1.%20python/Aulas/Aula_01.ipynb)
+    8. [Operadores em Python](https://github.com/nunescarol/es3/blob/main/1.%20python/Aulas/Aula_02-Operadores.ipynb)
+    9. [If e Else](https://github.com/nunescarol/es3/blob/main/1.%20python/Aulas/Aula_03-If_e_Else.ipynb)
+    10. [Laços de Repetição](https://github.com/nunescarol/es3/blob/main/1.%20python/Aulas/Aula_04-La%C3%A7os_de_Repeticao.ipynb)
+    11. [Funções](https://github.com/nunescarol/es3/blob/main/1.%20python/Aulas/Aula_05-Funcoes.ipynb)
