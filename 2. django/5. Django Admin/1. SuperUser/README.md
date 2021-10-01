@@ -9,7 +9,7 @@ Para criar um super usuário devemos escrever o seguinte comando no terminal:
 python manage.py createsuperuser
 ``` 
 
-Serão solicitadas algumas informações como mostrado abaixo (Não se assuste com o password em branco, ele por padrão é visível):
+Serão solicitadas algumas informações como mostrado abaixo (Não se assuste com o password em branco, ele por padrão é não visível):
 
 ```python 
 Username: admin
